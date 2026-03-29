@@ -84,9 +84,13 @@ The Power BI dashboard includes:
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard-home.png)
+
+## 📈 Best & Worst Sellers
+
+![Best Sellers](images/best%20and%20worst%20sellers.png)
 
 ---
 
